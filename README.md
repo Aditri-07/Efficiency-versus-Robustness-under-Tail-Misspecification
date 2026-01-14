@@ -15,21 +15,6 @@ Daily returns of a broad equity market proxy are used to calibrate a nominal Gau
 
 The results demonstrate a clear trade-off between efficiency and robustness. Importance sampling produces low-variance VaR estimates under the nominal model but systematically underestimates the true VaR under heavy-tailed returns, with bias increasing at higher confidence levels and for thicker tails. In contrast, discrete moment matching yields conservative VaR bracketing that remains robust under tail misspecification. These findings highlight that variance reduction alone is insufficient for reliable tail risk estimation when model uncertainty is significant.
 
----
-
-## Repository Structure
-├── paper/
-│ ├── main.tex # LaTeX source of the paper
-│ ├── references.bib # Bibliography
-│ └── figures/ # Simulation figures used in the paper
-│
-├── code/ # Simulation and analysis notebooks/scripts
-│
-├── README.md
-└── LICENSE
-
-
----
 
 ## Methods Overview
 
