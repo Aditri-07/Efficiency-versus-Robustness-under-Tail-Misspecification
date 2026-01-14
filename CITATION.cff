@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+title: "Efficiency versus Robustness under Tail Misspecification"
+authors:
+  - name: Aditri
+date-released: 2026-01-14
+repository-code: https://github.com/Aditri-07/Efficiency-versus-Robustness-under-Tail-Misspecification
+license: MIT
+abstract: >
+  Simulation-based analysis of Value-at-Risk estimation under tail misspecification,
+  comparing importance sampling and discrete moment matching.
