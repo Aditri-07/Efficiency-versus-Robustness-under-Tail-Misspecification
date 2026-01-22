@@ -45,8 +45,7 @@ The LaTeX source in `paper/` reproduces the manuscript and figures used in the a
 
 ## arXiv
 
-The paper has been submitted to arXiv and is currently under moderation.  
-The arXiv link will be added here once the paper is publicly announced.
+https://arxiv.org/abs/2601.09927
 
 ---
 
